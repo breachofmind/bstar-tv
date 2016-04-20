@@ -1,0 +1,16 @@
+{
+  "name": "tv",
+  "authors": [
+    "Mike Adamczyk <mike.adamczyk@brightstar.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "slick-carousel": "^1.5.9",
+    "handlebars": "^4.0.5"
+  }
+}
