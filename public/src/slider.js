@@ -37,7 +37,7 @@
         });
 
         $slider.slick(settings({
-            autoplaySpeed: $slider.hasClass('slider-lg') ? 6000 : 3000
+            autoplaySpeed: $slider.hasClass('slider-lg') ? 8000 : 4000
         }));
 
     }
