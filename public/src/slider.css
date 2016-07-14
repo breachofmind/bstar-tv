@@ -1,5 +1,10 @@
+@font-face {
+	font-family: UniversLTPro;
+	src: url('/public/fonts/29FF86_0_0.ttf') format('ttf');
+}
+
 #Slider .caption-title, #Slider .caption-content {
-	font-family: UniversLTPro, UniversLTPro-55Roman, Helvetica, Arial, sans-serif;
+	font-family: "UniversLTPro", Helvetica, Arial, sans-serif;
 }
 
 #Slider .caption-title {
