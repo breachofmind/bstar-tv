@@ -19,8 +19,8 @@
         <div class='slide'>
             <img src='{{image}}' alt='{{type}}'/>
             <div class='caption'>
-                <h3>{{title}}</h3>
-                <p>{{content}}</p>
+                <h3 class="caption-title">{{title}}</h3>
+                <p class="caption-content">{{content}}</p>
             </div>
         </div>
     </script>
