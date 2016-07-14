@@ -1,3 +1,15 @@
+#Slider .caption-title, #Slider .caption-content {
+	font-family: UniversLTPro, UniversLTPro-55Roman, Helvetica, Arial, sans-serif;
+}
+
+#Slider .caption-title {
+	text-transform: uppercase;
+	margin: 0; line-height:120%;
+}
+
+#Slider .caption-content {
+	margin-bottom: 12px;
+}
 
 div.slide {
 	position: relative;
@@ -8,12 +20,8 @@ div.slide img {
 	width: 100%;
 	height: auto;
 }
-div.slide h3 {
-	margin: 0; line-height:22px;
-}
-div.slide p {
-	margin-bottom: 12px;
-}
+
+
 div.slide .caption {
 	color: white;
 	position: relative;
