@@ -1,10 +1,22 @@
 @font-face {
-	font-family: UniversLTPro;
-	src: url('/public/fonts/29FF86_0_0.ttf') format('ttf');
+	font-family: 'UniversLTPro-55Roman';
+	src: url('../fonts/29FF86_0_0.eot');
+	src: url('../fonts/29FF86_0_0.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/29FF86_0_0.woff') format('woff'),
+	url('../fonts/29FF86_0_0.ttf') format('truetype');
+}
+
+
+@font-face {
+	font-family: 'UniversLTPro-65Bold';
+	src: url('../fonts/29FF86_1_0.eot');
+	src: url('../fonts/29FF86_1_0.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/29FF86_1_0.woff') format('woff'),
+	url('../fonts/29FF86_1_0.ttf') format('truetype');
 }
 
 #Slider .caption-title, #Slider .caption-content {
-	font-family: "UniversLTPro", Helvetica, Arial, sans-serif;
+	font-family: "UniversLTPro-55Roman", Helvetica, Arial, sans-serif;
 }
 
 #Slider .caption-title {
